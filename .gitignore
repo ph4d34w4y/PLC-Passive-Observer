@@ -1,0 +1,6 @@
+/plc_passive_observer
+/scanner_tests
+*.pcap
+*.pcapng
+*.csv
+*.o
